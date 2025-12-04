@@ -1,0 +1,11 @@
+{
+  "dashboard-navigator:dashboard": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "D"
+    }
+  ]
+}

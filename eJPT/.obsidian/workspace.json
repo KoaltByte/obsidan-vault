@@ -1,0 +1,243 @@
+{
+  "main": {
+    "id": "737de574c3d39c25",
+    "type": "split",
+    "children": [
+      {
+        "id": "3e46026b898ddbe6",
+        "type": "tabs",
+        "dimension": 66.69463087248322,
+        "children": [
+          {
+            "id": "b81730800bec505f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Metodologías de evaluación/1. Recopilación de información/1.1 Introducción a la recopilación de información.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.1 Introducción a la recopilación de información"
+            }
+          },
+          {
+            "id": "81f4543806f80f78",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Metodologías de evaluación/1. Recopilación de información/Recopilación pasiva.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Recopilación pasiva"
+            }
+          },
+          {
+            "id": "8152ff926c38cf23",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Metodologías de evaluación/1. Recopilación de información/Recopilación pasiva.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Recopilación pasiva"
+            }
+          },
+          {
+            "id": "a0447b0519cfac6e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.14"
+              },
+              "icon": "lucide-book-up",
+              "title": "Registro de cambios 1.9.14"
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "76da7b05b65483ca",
+        "type": "tabs",
+        "dimension": 33.30536912751678,
+        "children": [
+          {
+            "id": "d2c8a30feef4e5fc",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "707e4ca00e1aab3e",
+    "type": "split",
+    "children": [
+      {
+        "id": "f81dc8683c32fefa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "34ae3544c4d248ee",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "36283edb001406a8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "794b2d9559c58878",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "688be19d064a45ce",
+    "type": "split",
+    "children": [
+      {
+        "id": "f9e44b2498ad4d0d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2410decc363e4f81",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Metodologías de evaluación/1. Recopilación de información/Recopilación pasiva.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de Recopilación pasiva"
+            }
+          },
+          {
+            "id": "1411236ddf19297d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Metodologías de evaluación/1. Recopilación de información/Recopilación pasiva.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de Recopilación pasiva"
+            }
+          },
+          {
+            "id": "500b4e81e0c94da9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "594f421828b25eac",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Metodologías de evaluación/1. Recopilación de información/Recopilación pasiva.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de Recopilación pasiva"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
+    }
+  },
+  "active": "a0447b0519cfac6e",
+  "lastOpenFiles": [
+    "Generales/proxy.md",
+    "Metodologías de evaluación/1. Recopilación de información/Recopilación pasiva.md",
+    "Generales",
+    "Pasted image 20251008132515.png",
+    "Pasted image 20251008131916.png",
+    "Metodologías de evaluación/1. Recopilación de información/1.1 Introducción a la recopilación de información.md",
+    "Metodologías de evaluación/1. Recopilación de información/1.2 Recopilación pasiva",
+    "Metodologías de evaluación/1. Recopilación de información",
+    "Metodologías de evaluación"
+  ]
+}

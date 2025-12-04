@@ -1,0 +1,282 @@
+{
+  "main": {
+    "id": "a9bb51605ee4ee65",
+    "type": "split",
+    "children": [
+      {
+        "id": "33838c5e823a78a6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b4fa02e23140685b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sistemas distribuidos/1.2 Arquitectura de un sistema.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.2 Arquitectura de un sistema"
+            }
+          },
+          {
+            "id": "3ceb159e060dd449",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sistemas distribuidos/1.1 Qué es un sistema distribuido.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.1 Qué es un sistema distribuido"
+            }
+          },
+          {
+            "id": "6e9db1e8c3ffce27",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sistemas distribuidos/2.1 Comunicación y fundamentos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2.1 Comunicación y fundamentos"
+            }
+          },
+          {
+            "id": "14217e6ae423d776",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sistemas distribuidos/1.1 Qué es un sistema distribuido.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.1 Qué es un sistema distribuido"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0b0dfbad59573332",
+    "type": "split",
+    "children": [
+      {
+        "id": "a637c1b13ee1224d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "888c7930dd242c81",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "bd5a58b404f598b6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "b688193fb4e0948d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8f12c03a6df609ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "43dc3663508c4779",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a1e80d7860a2fb6f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Sin título.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de Sin título"
+            }
+          },
+          {
+            "id": "f355702c334276e4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Sin título.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de Sin título"
+            }
+          },
+          {
+            "id": "7503bc7ddf5aaec5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "71634eb238cea910",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Sin título.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de Sin título"
+            }
+          },
+          {
+            "id": "615be9c16e56e987",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Cola de notas a revisar"
+            }
+          },
+          {
+            "id": "361b473c0500d312",
+            "type": "leaf",
+            "state": {
+              "type": "side-panel-control-view",
+              "state": {},
+              "icon": "viewIcon",
+              "title": "Markdown-Autocomplete"
+            }
+          },
+          {
+            "id": "ff514a5e3522175d",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 393.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Nuevo Bosquejo": false,
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
+      "markdown-table-editor:Open Markdown Table Editor": false,
+      "obsidian-spaced-repetition:Revisar Tarjetas": false,
+      "templater-obsidian:Templater": false,
+      "github-sync:Sync with Remote": false
+    }
+  },
+  "active": "14217e6ae423d776",
+  "lastOpenFiles": [
+    "Sistemas distribuidos/1.3 Procesos de un sistema distribuido.md",
+    "Sistemas distribuidos/1.2.1 Organización del software intermedio (middleware).md",
+    "Sistemas distribuidos/1.2 Arquitectura de un sistema.md",
+    "Sistemas distribuidos/1.1 Qué es un sistema distribuido.md",
+    "Sistemas distribuidos/2.1 Comunicación y fundamentos.md",
+    "Sistemas distribuidos/Adj/Pasted image 20251020010511.png",
+    "Sistemas distribuidos/Excalidraw/Drawing 2025-10-20 01.01.27.excalidraw.md",
+    "Sistemas distribuidos/Excalidraw/Adj/Pasted Image 20251020010136_920.png",
+    "Sistemas distribuidos/Excalidraw/Adj",
+    "Sistemas distribuidos/Excalidraw",
+    "Sistemas distribuidos/Adj/Pasted image 20251020004043.png",
+    "Sistemas distribuidos/Adj/Pasted image 20251020002824.png",
+    "Sistemas distribuidos/Adj/Pasted image 20251020002417.png",
+    "Sistemas distribuidos/Adj/Pasted image 20251020002255.png",
+    "Sistemas distribuidos/Adj/Pasted image 20251020001653.png",
+    "Sistemas distribuidos/Adj/Pasted image 20251020001007.png",
+    "Untitled Diagram.svg",
+    "Sin título.canvas",
+    "Sin título.base",
+    "Sin título 1.base",
+    "Sin nombre",
+    "Sistemas distribuidos/Adj/Pasted image 20251019232714.png",
+    "Sistemas distribuidos/Adj",
+    "Sin título 1.md",
+    "Adj",
+    "Bienvenido.md",
+    "Sistemas distribuidos"
+  ]
+}

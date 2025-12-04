@@ -1,0 +1,186 @@
+{
+  "main": {
+    "id": "fec0588b612d4745",
+    "type": "split",
+    "children": [
+      {
+        "id": "3e6ddee3c12f249e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d316e24b0f8f0db0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux/Básicos/Comandos básicos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Comandos básicos"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "896851aed2eaf7aa",
+    "type": "split",
+    "children": [
+      {
+        "id": "0e415ba3b2975a9b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "84da4d762e5e9811",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "83c2be98e08bae70",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "c6d2552ccfbd7816",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "a9556ffec333fcb8",
+    "type": "split",
+    "children": [
+      {
+        "id": "642cb051c9359970",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "80ef7c0df5ecb082",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Linux/Básicos/Comandos básicos.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de Comandos básicos"
+            }
+          },
+          {
+            "id": "cf31f38d3452d904",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Linux/Básicos/Comandos básicos.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de Comandos básicos"
+            }
+          },
+          {
+            "id": "729a1553298d7f6d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "2bef1de4668f4c91",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Linux/Básicos/Comandos básicos.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de Comandos básicos"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
+    }
+  },
+  "active": "84da4d762e5e9811",
+  "lastOpenFiles": [
+    "Sin nombre",
+    "Imagenes/Pasted image 20250929230815.png",
+    "Imagenes/Pasted image 20250929225808.png",
+    "Pasted image 20250929225412.png",
+    "Linux/Básicos/Comandos básicos.md",
+    "Imagenes/Pasted image 20250929225427.png",
+    "Imagenes/Pasted image 20250929224801.png",
+    "Imagenes",
+    "Bienvenido.md",
+    "Linux/Básicos",
+    "Linux"
+  ]
+}

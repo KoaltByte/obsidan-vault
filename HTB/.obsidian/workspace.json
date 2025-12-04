@@ -1,0 +1,265 @@
+{
+  "main": {
+    "id": "df62ea6fb3ee462e",
+    "type": "split",
+    "children": [
+      {
+        "id": "cb6d51ff3cef20e7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "66b924b61951c075",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fundamentos/Introducción a las redes/Estructuras de red/Descripción general de la red.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Descripción general de la red"
+            }
+          },
+          {
+            "id": "92c1f34bdaf03235",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fundamentos/Introducción a las redes/Estructuras de red/Tipos de red.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tipos de red"
+            }
+          },
+          {
+            "id": "63173c251e2a8b68",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fundamentos/Introducción a las redes/Estructuras de red/Topologías de red.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Topologías de red"
+            }
+          },
+          {
+            "id": "e2158b92e0bf11c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Proxies.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Proxies"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cf839ce149c58b0b",
+    "type": "split",
+    "children": [
+      {
+        "id": "31c38c4b3adfccb5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f4456edbc4f9960d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "6a8decb709e71ad4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "f7cb3f0e52778c90",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bae921c9aa08b553",
+    "type": "split",
+    "children": [
+      {
+        "id": "2f1b9f3900ca4494",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e8465eac61f32eeb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Bienvenido.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de Bienvenido"
+            }
+          },
+          {
+            "id": "f38764859939a5ea",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Bienvenido.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de Bienvenido"
+            }
+          },
+          {
+            "id": "4035096221f60582",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "24c8f03ead359c6c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Fundamentos/Introducción a las redes/Estructuras de red/Tipos de red.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de Tipos de red"
+            }
+          },
+          {
+            "id": "d73614711d5246e4",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Cola de notas a revisar"
+            }
+          },
+          {
+            "id": "5d261e1e86fc65f8",
+            "type": "leaf",
+            "state": {
+              "type": "side-panel-control-view",
+              "state": {},
+              "icon": "viewIcon",
+              "title": "Markdown-Autocomplete"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 342.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false,
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
+      "obsidian-spaced-repetition:Revisar Tarjetas": false
+    }
+  },
+  "active": "92c1f34bdaf03235",
+  "lastOpenFiles": [
+    "Fundamentos/Introducción a las redes/Estructuras de red/Descripción general de la red.md",
+    "Proxies.md",
+    "Fundamentos/Introducción a las redes/Estructuras de red/Topologías de red.md",
+    "Fundamentos/Introducción a las redes/Estructuras de red",
+    "Fundamentos/Introducción a las redes/ADJUNTOS/Pasted image 20251021001050.png",
+    "Fundamentos/Introducción a las redes/ADJUNTOS/Pasted image 20251021000909.png",
+    "Fundamentos/Introducción a las redes/ADJUNTOS/Pasted image 20251021000701.png",
+    "Fundamentos/Introducción a las redes/ADJUNTOS/Pasted image 20251021000409.png",
+    "Fundamentos/Introducción a las redes/ADJUNTOS/Pasted image 20251020235812.png",
+    "Fundamentos/Introducción a las redes/ADJUNTOS/Pasted image 20251020234729.png",
+    "Fundamentos/Introducción a las redes/ADJUNTOS/Pasted image 20251020234326.png",
+    "Fundamentos/Introducción a las redes/ADJUNTOS/Pasted image 20251020233952.png",
+    "Fundamentos/Introducción a las redes/ADJUNTOS/Pasted image 20251020233422.png",
+    "Fundamentos/Introducción a las redes/ADJUNTOS/Pasted image 20251020233326.png",
+    "Fundamentos/Introducción a las redes/Estructuras de red/Tipos de red.md",
+    "Fundamentos/Introducción a las redes/ADJUNTOS",
+    "Fundamentos/Generales",
+    "Fundamentos/Generales/Firewalls.md",
+    "Fundamentos/Generales/Routers.md",
+    "Fundamentos/Generales/VPN.md",
+    "Fundamentos/Generales/DMZ Zona Desmilitarizada.md",
+    "().md",
+    "Bienvenido.md",
+    "Fundamentos/Introducción a las redes",
+    "Fundamentos"
+  ]
+}

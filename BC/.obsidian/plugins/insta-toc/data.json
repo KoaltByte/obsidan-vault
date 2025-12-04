@@ -1,0 +1,19 @@
+{
+  "bulletType": "dash",
+  "indentSize": 4,
+  "updateDelay": 2000,
+  "tocTitle": "Tabla de contenido",
+  "excludedHeadingLevels": [],
+  "excludedHeadingText": [],
+  "excludedChars": [
+    "*",
+    "_",
+    "`",
+    "==",
+    "~~",
+    "{",
+    "}",
+    "#",
+    "\\"
+  ]
+}
