@@ -1,7 +1,5 @@
 > **Tipo de nota:** curso
 
-
-
 # 🧠 Básicos de JS
 
 **ID:** `202512032325`  
