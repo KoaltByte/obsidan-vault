@@ -12,5 +12,6 @@
   "obsidian-checklist-plugin",
   "dashboard-navigator",
   "insta-toc",
-  "github-sync"
+  "github-sync",
+  "obsidian-git"
 ]

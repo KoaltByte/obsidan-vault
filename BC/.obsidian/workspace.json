@@ -180,9 +180,19 @@
               "icon": "viewIcon",
               "title": "Markdown-Autocomplete"
             }
+          },
+          {
+            "id": "3f4239db347a525c",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -202,11 +212,14 @@
       "templater-obsidian:Templater": false,
       "random-note:Abrir nota al azar": false,
       "homepage:Open homepage": false,
-      "dashboard-navigator:Open dashboard navigator": false
+      "dashboard-navigator:Open dashboard navigator": false,
+      "github-sync:Sync with Remote": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "698ae4d39dfe76d8",
   "lastOpenFiles": [
+    "Untitled Diagram.png",
     "Untitled Diagram.svg",
     "JavaScrip/Introducción.md",
     "Sin título.md",

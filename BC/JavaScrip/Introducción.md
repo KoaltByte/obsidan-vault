@@ -231,6 +231,7 @@ console.log(resultado); //undefined
 ---
 
 
+![[Untitled Diagram.png]]
 
 
 
